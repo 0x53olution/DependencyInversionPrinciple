@@ -1,0 +1,9 @@
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\obj\Debug\Logic.CopyProcess.csprojAssemblyReference.cache
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\obj\Debug\Logic.CopyProcess.csproj.CoreCompileInputs.cache
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\bin\Debug\Logic.CopyProcess.dll
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\bin\Debug\Logic.CopyProcess.pdb
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\bin\Debug\Logic.InputOutputHandler.dll
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\bin\Debug\Logic.InputOutputHandler.pdb
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\obj\Debug\Logic.CopyProcess.csproj.CopyComplete
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\obj\Debug\Logic.CopyProcess.dll
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.CopyProcess\obj\Debug\Logic.CopyProcess.pdb

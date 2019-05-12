@@ -1,0 +1,13 @@
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe.config
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.pdb
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.pdb
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.ConsoleCopy.csprojResolveAssemblyReference.cache
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe.config
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.pdb
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\obj\Debug\Ui.ConsoleCopy.csprojAssemblyReference.cache
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\obj\Debug\Ui.ConsoleCopy.csproj.CoreCompileInputs.cache
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.pdb

@@ -1,0 +1,13 @@
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.exe.config
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.exe
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.pdb
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.csprojResolveAssemblyReference.cache
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.exe
+C:\Repos\DependencyInjection\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.pdb
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.exe.config
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.exe
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\bin\Debug\Ui.ConsoleCopyAndWriteToFile.pdb
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.csprojAssemblyReference.cache
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.csproj.CoreCompileInputs.cache
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.exe
+C:\Repos\DependencyInversionPrinciple\Ui\Ui.ConsoleCopyAndWriteToFile\obj\Debug\Ui.ConsoleCopyAndWriteToFile.pdb

@@ -1,0 +1,6 @@
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe.config
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\bin\Debug\Ui.TestConsole.pdb
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.csprojResolveAssemblyReference.cache
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.exe
+C:\Repos\DependencyInjection\Ui\Ui.TestConsole\obj\Debug\Ui.TestConsole.pdb

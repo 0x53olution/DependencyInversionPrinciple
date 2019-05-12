@@ -1,0 +1,5 @@
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.InputOutputHandler\obj\Debug\Logic.InputOutputHandler.csproj.CoreCompileInputs.cache
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.InputOutputHandler\bin\Debug\Logic.InputOutputHandler.dll
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.InputOutputHandler\bin\Debug\Logic.InputOutputHandler.pdb
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.InputOutputHandler\obj\Debug\Logic.InputOutputHandler.dll
+C:\Repos\DependencyInversionPrinciple\Logic\Logic.InputOutputHandler\obj\Debug\Logic.InputOutputHandler.pdb
